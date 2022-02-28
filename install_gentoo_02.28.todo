@@ -1,0 +1,4 @@
+ - Entry - Install Gentoo
+  - Due -  02.28
+ - Notes -
+DO THIS NOW! 1) Back up docs, .config, .local, workspace, nvim 2) Then download and burn ArchInstaller to USB 3) Wipe partitions and install ALTERNATIVELY: 1) Back up like previously mentioned. 2) ArchInstaller 3) Before rebooting and wiping, repurpose arch-install for Gentoo 4) Continue as normal
